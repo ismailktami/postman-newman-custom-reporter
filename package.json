@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-jsonforazure",
-  "version": "1.0.0",
+  "version": "1.0.12",
   "description": "",
   "dependencies": {
     "lodash": "^4.17.10",
